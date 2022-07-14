@@ -7,6 +7,7 @@ PDB files for proteins we are interested in that consist of the following:
 Idealy we would have useful scripts (i.e., index mapping, jackhammer, etc.) on here as well.
 
 ## To-do: ##
-- add pdbs
+- add pdbs to a folder
+- add a table listing the pdbid, length, monomer/dimer/complex, etc.
 - automate jackhammer integration to extract sequences from pdb and make msa
 - automate index mapping and include an list of maps readily available
